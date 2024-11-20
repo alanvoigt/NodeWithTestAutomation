@@ -1,0 +1,7 @@
+- Para executar o servidor: node server.js
+
+- Configurar o JEST e SuperTest.
+  npm install --save-dev jest supertest
+
+- Executar o teste
+  npm test
